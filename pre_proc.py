@@ -1,10 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-__author__ = 'Sukriti'
-
-# Reference : https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/
-
 import numpy as np
 from sklearn import preprocessing
 from sklearn.preprocessing import StandardScaler
